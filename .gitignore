@@ -1,0 +1,18 @@
+# Secrets & environment variables
+.env
+.env.*
+!.env.example
+
+# Real private rosters / grading workbooks
+*.xlsx
+!examples/sample_output.xlsx
+*.csv
+!examples/sample_roster.csv
+*_audit.json
+!examples/sample_reflections_audit.json
+
+# Python & OS
+__pycache__/
+*.pyc
+.DS_Store
+/tmp/

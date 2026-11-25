@@ -1,0 +1,50 @@
+{
+  "2026STU001": {
+    "classes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "count": 12,
+    "marks": 10.0,
+    "has_any_file": true
+  },
+  "2026STU002": {
+    "classes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "count": 12,
+    "marks": 10.0,
+    "has_any_file": true
+  },
+  "2026STU003": {
+    "classes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "count": 10,
+    "marks": 8.33,
+    "has_any_file": true
+  },
+  "2026STU004": {
+    "classes": [],
+    "count": 0,
+    "marks": 0.0,
+    "has_any_file": false
+  },
+  "2026STU005": {
+    "classes": [1, 2, 3, 4, 5, 6],
+    "count": 6,
+    "marks": 5.0,
+    "has_any_file": true
+  },
+  "2026STU006": {
+    "classes": [],
+    "count": 0,
+    "marks": 0.0,
+    "has_any_file": true
+  },
+  "2026STU007": {
+    "classes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+    "count": 12,
+    "marks": 10.0,
+    "has_any_file": true
+  },
+  "2026STU008": {
+    "classes": [1, 2, 3, 4, 5, 6, 7, 8],
+    "count": 8,
+    "marks": 6.67,
+    "has_any_file": true
+  }
+}

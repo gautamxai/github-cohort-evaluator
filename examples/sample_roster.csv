@@ -1,0 +1,11 @@
+student_id,full_name,team,product,presented,project_uploaded
+2026STU001,Aarav Mehta,TEAM_ALPHA,PulseOps AI,Yes,Yes
+2026STU002,Diya Nair,TEAM_ALPHA,PulseOps AI,Yes,Yes
+2026STU003,Rohan Kulkarni,TEAM_BETA,FinGuard Copilot,Yes,Yes
+2026STU004,Sneha Iyer,TEAM_BETA,FinGuard Copilot,Yes,Yes
+2026STU005,Kabir Verma,TEAM_GAMMA,MediTriage AI,No,Yes
+2026STU006,Ananya Rao,TEAM_GAMMA,MediTriage AI,No,Yes
+2026STU007,Vikram Joshi,INDIV_007,CodeLens Pro,Yes,Yes
+2026STU008,Meera Krishnan,INDIV_008,SupplySense,No,Yes
+2026STU009,Arjun Kapoor,,,No,No
+2026STU010,Nisha Sharma,,,No,No
